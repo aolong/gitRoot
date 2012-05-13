@@ -1,0 +1,4 @@
+gitRoot
+=======
+
+Root of projects
